@@ -1,8 +1,7 @@
-package com.unicesumar.FirstCrud.service;
+package com.unicesumar.ProjetoCrud.service;
 
-import com.unicesumar.FirstCrud.controller.PessoaController;
-import com.unicesumar.FirstCrud.model.Pessoa;
-import com.unicesumar.FirstCrud.repository.PessoaRepository;
+import com.unicesumar.ProjetoCrud.model.Pessoa;
+import com.unicesumar.ProjetoCrud.repository.PessoaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

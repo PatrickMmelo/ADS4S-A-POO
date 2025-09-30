@@ -1,4 +1,4 @@
-package com.unicesumar.FirstCrud.model;
+package com.unicesumar.ProjetoCrud.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
